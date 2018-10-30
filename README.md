@@ -1,4 +1,4 @@
-Binary number addition
+# Binary number addition
 
 VŠB Homework
 
